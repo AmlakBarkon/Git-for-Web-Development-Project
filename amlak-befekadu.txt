@@ -50,12 +50,11 @@ t contains information such as the page <title> , links to CSS (if you choose to
     22. What is a parent child selector? When would this be useful? 
 	Child Selector is used to match all the elements which are child of a specified element. ... The element > element selector selects those elements which are the children of specific parent
     23. How do you select all links within a div with the class of sidebar?
-<<<<<<< HEAD
+
     24. What is a pseudo selector? Additional action to the html elements.
-=======
+
     24. What is a pseudo selector?
 A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element(s)
->>>>>>> 95e6bdead9125ecce36ac47f0047bea81195f688
     25. What do we use the change the spacing between lines?
 	Use the line-height property in CSS to do so. Browsers by default will create a certain amount of space between lines to ensure that the text is easily readable.
     26. What do we use to change the spacing between letters?
